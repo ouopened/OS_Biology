@@ -1,6 +1,6 @@
 # OS_Biology
 
-This material was created by OpenStax College and is available for download for free at http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.5.  It is used here under a Creative Commons Attribution License 4.0.
+This material was created by OpenStax College and is available for download for free at http://cnx.org/contents/185cbf87-c72e-48f5-b51e-f14f21b5eabd@11.5.  It is used here under a [Creative Commons Attribution License 4.0](http://creativecommons.org/licenses/by/4.0/).
 
 #### [Preface](Preface.md)
 
