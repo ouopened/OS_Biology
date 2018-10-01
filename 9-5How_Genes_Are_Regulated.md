@@ -1,0 +1,64 @@
+For a cell to function properly, necessary proteins must be synthesized at the proper time. All organisms and cells control or regulate the transcription and translation of their DNA into protein. The process of turning on a gene to produce RNA and protein is called **gene expression**. Whether in a simple unicellular organism or in a complex multicellular organism, each cell controls when and how its genes are expressed. For this to occur, there must be a mechanism to control when a gene is expressed to make RNA and protein, how much of the protein is made, and when it is time to stop making that protein because it is no longer needed.
+
+Cells in multicellular organisms are specialized; cells in different tissues look very different and perform different functions. For example, a muscle cell is very different from a liver cell, which is very different from a skin cell. These differences are a consequence of the expression of different sets of genes in each of these cells. All cells have certain basic functions they must perform for themselves, such as converting the energy in sugar molecules into energy in ATP. Each cell also has many genes that are not expressed, and expresses many that are not expressed by other cells, such that it can carry out its specialized functions. In addition, cells will turn on or off certain genes at different times in response to changes in the environment or at different times during the development of the organism. Unicellular organisms, both eukaryotic and prokaryotic, also turn on and off genes in response to the demands of their environment so that they can respond to special conditions.
+
+The control of gene expression is extremely complex. Malfunctions in this process are detrimental to the cell and can lead to the development of many diseases, including cancer.
+
+### Prokaryotic versus Eukaryotic Gene Expression
+
+To understand how gene expression is regulated, we must first understand how a gene becomes a functional protein in a cell. The process occurs in both prokaryotic and eukaryotic cells, just in slightly different fashions.
+
+Because prokaryotic organisms lack a cell nucleus, the processes of transcription and translation occur almost simultaneously. When the protein is no longer needed, transcription stops. As a result, the primary method to control what type and how much protein is expressed in a prokaryotic cell is through the regulation of DNA transcription into RNA. All the subsequent steps happen automatically. When more protein is required, more transcription occurs. Therefore, in prokaryotic cells, the control of gene expression is almost entirely at the transcriptional level.
+
+The first example of such control was discovered using _E_. _coli_ in the 1950s and 1960s by French researchers and is called the _lac_ operon. The _lac_ operon is a stretch of DNA with three adjacent genes that code for proteins that participate in the absorption and metabolism of lactose, a food source for _E_. _coli_. When lactose is not present in the bacterium’s environment, the _lac_ genes are transcribed in small amounts. When lactose is present, the genes are transcribed and the bacterium is able to use the lactose as a food source. The operon also contains a promoter sequence to which the RNA polymerase binds to begin transcription; between the promoter and the three genes is a region called the operator. When there is no lactose present, a protein known as a repressor binds to the operator and prevents RNA polymerase from binding to the promoter, except in rare cases. Thus very little of the protein products of the three genes is made. When lactose is present, an end product of lactose metabolism binds to the repressor protein and prevents it from binding to the operator. This allows RNA polymerase to bind to the promoter and freely transcribe the three genes, allowing the organism to metabolize the lactose.
+
+Eukaryotic cells, in contrast, have intracellular organelles and are much more complex. Recall that in eukaryotic cells, the DNA is contained inside the cell’s nucleus and it is transcribed into mRNA there. The newly synthesized mRNA is then transported out of the nucleus into the cytoplasm, where ribosomes translate the mRNA into protein. The processes of transcription and translation are physically separated by the nuclear membrane; transcription occurs only within the nucleus, and translation only occurs outside the nucleus in the cytoplasm. The regulation of gene expression can occur at all stages of the process (Figure). Regulation may occur when the DNA is uncoiled and loosened from nucleosomes to bind transcription factors ( **epigenetic** level), when the RNA is transcribed (transcriptional level), when RNA is processed and exported to the cytoplasm after it is transcribed ( **post-transcriptional** level), when the RNA is translated into protein (translational level), or after the protein has been made ( **post-translational** level).
+
+![Illustration shows the steps of protein synthesis in three steps: transcription, RNA processing, and translation. In transcription, the RNA strand is synthesized by RNA polymerase in the 5' to 3' direction. In RNA processing, a primary RNA transcript with three exons and two introns is shown. In the spliced transcript, the introns are removed and the exons are fused together. A 5' cap and poly-A tail have also been added. In translation, an initiator tRNA recognizes the sequence AUG on the mRNA that is associated with the small ribosomal subunit. The large subunit joins the complex. Next, a second tRNA is recruited at the A site. A peptide bond is formed between the first amino acid, which is at the P site, and the second amino acid, which is at the A site. The mRNA then shifts and the first tRNA is moved to the E site, where it dissociates from the ribosome. Another tRNA binds the A site, and the process is repeated.][1] _Eukaryotic gene expression is regulated during transcription and RNA processing, which take place in the nucleus, as well as during protein translation, which takes place in the cytoplasm. Further regulation may occur through post-translational modifications of proteins._
+
+The differences in the regulation of gene expression between prokaryotes and eukaryotes are summarized in Table.
+
+Differences in the Regulation of Gene Expression of Prokaryotic and Eukaryotic Organisms  
+---  
+Prokaryotic organisms | Eukaryotic organisms  
+Lack nucleus | Contain nucleus  
+RNA transcription and protein translation occur almost simultaneously | 
+
+  - RNA transcription occurs prior to protein translation, and it takes place in the nucleus. RNA translation to protein occurs in the cytoplasm.
+  - RNA post-processing includes addition of a 5' cap, poly-A tail, and excision of introns and splicing of exons.
+
+  
+Gene expression is regulated primarily at the transcriptional level | Gene expression is regulated at many levels (epigenetic, transcriptional, post-transcriptional, translational, and post-translational)  
+Evolution in Action
+
+Alternative RNA SplicingIn the 1970s, genes were first observed that exhibited **alternative RNA splicing**. Alternative RNA splicing is a mechanism that allows different protein products to be produced from one gene when different combinations of introns (and sometimes exons) are removed from the transcript (Figure). This alternative splicing can be haphazard, but more often it is controlled and acts as a mechanism of gene regulation, with the frequency of different splicing alternatives controlled by the cell as a way to control the production of different protein products in different cells, or at different stages of development. Alternative splicing is now understood to be a common mechanism of gene regulation in eukaryotes; according to one estimate, 70% of genes in humans are expressed as multiple proteins through alternative splicing.
+
+![Illustration of segments of pre-mRNA with exons shown in blue, red, orange, and pink. Five basic modes of alternative splicing are generally recognized. Each segment of pre-mRNA can be spliced to produce a variety of new mature mRNA segments; two are shown for each here. In the case of exon skipping, an exon may be spliced out or retained. In the case of mutually exclusive exons, one of two exons is retained in mRNAs after splicing, but not both. In the case of an alternative donor site, an alternative 5' splice junction \(donor site\) is used, changing the 3' boundary of the upstream exon. In the case of an alternative acceptor site, an alternative 3' splice junction \(acceptor site\) is used, changing the 5' boundary of the downstream exon. In the case of intron retention, a sequence may be spliced out as an intron or simply retained. This is distinguished from exon skipping because the retained sequence is not flanked by introns. The pink portion is considered an intron when skipped \(top\) and an exon when included \(bottom\).][2] _There are five basic modes of alternative splicing. Segments of pre-mRNA with exons shown in blue, red, orange, and pink can be spliced to produce a variety of new mature mRNA segments._
+
+How could alternative splicing evolve? Introns have a beginning and ending recognition sequence, and it is easy to imagine the failure of the splicing mechanism to identify the end of an intron and find the end of the next intron, thus removing two introns and the intervening exon. In fact, there are mechanisms in place to prevent such exon skipping, but mutations are likely to lead to their failure. Such “mistakes” would more than likely produce a nonfunctional protein. Indeed, the cause of many genetic diseases is alternative splicing rather than mutations in a sequence. However, alternative splicing would create a protein variant without the loss of the original protein, opening up possibilities for adaptation of the new variant to new functions. Gene duplication has played an important role in the evolution of new functions in a similar way—by providing genes that may evolve without eliminating the original functional protein.
+
+### Section Summary
+
+While all somatic cells within an organism contain the same DNA, not all cells within that organism express the same proteins. Prokaryotic organisms express the entire DNA they encode in every cell, but not necessarily all at the same time. Proteins are expressed only when they are needed. Eukaryotic organisms express a subset of the DNA that is encoded in any given cell. In each cell type, the type and amount of protein is regulated by controlling gene expression. To express a protein, the DNA is first transcribed into RNA, which is then translated into proteins. In prokaryotic cells, these processes occur almost simultaneously. In eukaryotic cells, transcription occurs in the nucleus and is separate from the translation that occurs in the cytoplasm. Gene expression in prokaryotes is regulated only at the transcriptional level, whereas in eukaryotic cells, gene expression is regulated at the epigenetic, transcriptional, post-transcriptional, translational, and post-translational levels.
+
+### Free Response
+
+Describe how controlling gene expression will alter the overall protein levels in the cell.
+
+The cell controls which protein is expressed, and to what level that protein is expressed, in the cell. Prokaryotic cells alter the transcription rate to turn genes on or off. This method will increase or decrease protein levels in response to what is needed by the cell. Eukaryotic cells change the accessibility (epigenetic), transcription, or translation of a gene. This will alter the amount of RNA, and the lifespan of the RNA, to alter the amount of protein that exists. Eukaryotic cells also change the protein’s translation to increase or decrease its overall levels. Eukaryotic organisms are much more complex and can manipulate protein levels by changing many stages in the process.
+
+### Glossary
+
+**alternative RNA splicing** a post-transcriptional gene regulation mechanism in eukaryotes in which multiple protein products are produced by a single gene through alternative splicing combinations of the RNA transcript 
+
+**epigenetic** describing non-genetic regulatory factors, such as changes in modifications to histone proteins and DNA that control accessibility to genes in chromosomes 
+
+**gene expression** processes that control whether a gene is expressed 
+
+**post-transcriptional** control of gene expression after the RNA molecule has been created but before it is translated into protein 
+
+**post-translational** control of gene expression after a protein has been created 
+
+   [1]: https://cnx.org/resources/13222c0c8fedb397935bb91f2844c6479d914c57/Figure_09_05_01.jpg
+   [2]: https://cnx.org/resources/a108571126d2b7d28a635a642ddc06d934ae4725/Figure_09_05_02.jpg
+
