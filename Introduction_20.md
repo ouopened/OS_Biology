@@ -1,0 +1,8 @@
+![ Photo \(a\) depicts a Karner blue butterfly, which has light blue wings with gold ovals and black dots around the edge. Photo \(b\) depicts a wild lupine flower, which is long and thin with clam-shaped petals radiating out from the center. The bottom third of the flower is blue, the middle is pink and blue, and the top is green.][1] _The (a) Karner blue butterfly and (b) wild lupine live in oak-pine barren habitats in North America. (credit a: modification of work by John & Karen Hollingsworth, USFWS)_
+
+Ecosystem ecology is an extension of organismal, population, and community ecology. The ecosystem comprises all the biotic components (living things) and abiotic components (non-living things) in a particular geographic area. Some of the abiotic components include air, water, soil, and climate. Ecosystem biologists study how nutrients and energy are stored and moved among organisms and the surrounding atmosphere, soil, and water.
+
+Wild lupine and Karner blue butterflies live in an oak-pine barren habitat in portions of Indiana, Michigan, Minnesota, Wisconsin, and New York (Figure). This habitat is characterized by natural disturbance in the form of fire and nutrient-poor soils that are low in nitrogen—important factors in the distribution of the plants that live in this habitat. Researchers interested in ecosystem ecology study the importance of limited resources in this ecosystem and the movement of resources (such as nutrients) through the biotic and abiotic portions of the ecosystem. Researchers also examine how organisms have adapted to their ecosystem.
+
+   [1]: https://cnx.org/resources/81bda1415ae8377c05d70427b7ce1cbb9e9024fd/Figure_20_00_01ab.jpg
+

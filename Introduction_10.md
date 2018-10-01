@@ -1,0 +1,6 @@
+![In part A, a PCR machine sits on a desk. It has a digital screen on the front and buttons, and “caution, hot base” is written on the front. Part B shows a hot spring in Yellowstone.][1] _(a) A thermal cycler, such as the one shown here, is a basic tool used to study DNA in a process called the polymerase chain reaction (PCR). The polymerase enzyme most often used with PCR comes from a strain of bacteria that lives in (b) the hot springs of Yellowstone National Park. (credit a: modification of work by Magnus Manske; credit b: modification of work by Jon Sullivan)_
+
+The latter half of the twentieth century began with the discovery of the structure of DNA, then progressed to the development of the basic tools used to study and manipulate DNA. These advances, as well as advances in our understanding of and ability to manipulate cells, have led some to refer to the twenty-first century as the biotechnology century. The rate of discovery and of the development of new applications in medicine, agriculture, and energy is expected to accelerate, bringing huge benefits to humankind and perhaps also significant risks. Many of these developments are expected to raise significant ethical and social questions that human societies have not yet had to consider.
+
+   [1]: https://cnx.org/resources/a0c00062fe84aa77d89a264077af709513f1b90f/Figure_10_00_01ab.jpg
+
