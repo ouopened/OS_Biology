@@ -4,13 +4,13 @@ This material was created by OpenStax College and is available to download for f
 
 #### [Preface](Preface.md)
 
-#### [Chapter 1](Introduction.md)
+#### [Introduction](Introduction.md)
 
   - [1-1Themes_And_Concepts_Of_Biology](1-1Themes_And_Concepts_Of_Biology.md)
 
   - [1-2The_Process_Of_Science](1-2The_Process_Of_Science.md)
 
-#### [Chapter 2](Introduction_2.md)
+#### [Introduction](Introduction_2.md)
 
   - [2-1The_Building_Blocks_Of_Molecules](2-1The_Building_Blocks_Of_Molecules.md)
 
@@ -18,7 +18,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [2-3Biological_Molecules](2-3Biological_Molecules.md)
 
-#### [Chapter 3](Introduction_3.md)
+#### [Introduction](Introduction_3.md)
 
   - [3-1How_Cells_Are_Studied](3-1How_Cells_Are_Studied.md)
 
@@ -32,7 +32,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [3-6Active_Transport](3-6Active_Transport.md)
 
-#### [Chapter 4](Introduction_4.md)
+#### [Introduction](Introduction_4.md)
 
   - [4-1Energy_And_Metabolism](4-1Energy_And_Metabolism.md)
 
@@ -44,7 +44,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [4-5Connections_To_Other_Metabolic_Pathways](4-5Connections_To_Other_Metabolic_Pathways.md)
 
-#### [Chapter 5](Introduction_5.md)
+#### [Introduction](Introduction_5.md)
 
   - [5-1Overview_Of_Photosynthesis](5-1Overview_Of_Photosynthesis.md)
 
@@ -52,7 +52,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [5-3The_Calvin_Cycle](5-3The_Calvin_Cycle.md)
 
-#### [Chapter 6](Introduction_6.md)
+#### [Introduction](Introduction_6.md)
 
   - [6-1The_Genome](6-1The_Genome.md)
 
@@ -62,7 +62,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [6-4Prokaryotic_Cell_Division](6-4Prokaryotic_Cell_Division.md)
 
-#### [Chapter 7](Introduction_7.md)
+#### [Introduction](Introduction_7.md)
 
   - [7-1Sexual_Reproduction](7-1Sexual_Reproduction.md)
 
@@ -70,7 +70,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [7-3Errors_In_Meiosis](7-3Errors_In_Meiosis.md)
 
-#### [Chapter 8](Introduction_8.md)
+#### [Introduction](Introduction_8.md)
 
   - [8-1Mendels_Experiments](8-1Mendels_Experiments.md)
 
@@ -78,7 +78,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [8-3Extensions_Of_The_Laws_Of_Inheritance](8-3Extensions_Of_The_Laws_Of_Inheritance.md)
 
-#### [Chapter 9](Introduction_9.md)
+#### [Introduction](Introduction_9.md)
 
   - [9-1The_Structure_Of_Dna](9-1The_Structure_Of_Dna.md)
 
@@ -90,7 +90,7 @@ This material was created by OpenStax College and is available to download for f
 
   - [9-5How_Genes_Are_Regulated](9-5How_Genes_Are_Regulated.md)
 
-#### [Chapter 10](Introduction_10.md)
+#### [Introduction](Introduction_10.md)
 
   - [10-1Cloning_And_Genetic_Engineering](10-1Cloning_And_Genetic_Engineering.md)
 
